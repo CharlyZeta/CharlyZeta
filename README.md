@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardomaidana)
 [![Location](https://img.shields.io/badge/Santa%20Fe-Argentina-75AADB?style=for-the-badge)](#)
 
+🇪🇸 [Leer en español](README.es.md)
+
 </div>
 
 ---
@@ -59,7 +61,7 @@ Production-grade showcase demonstrating event-driven architecture with the **Sag
 Transaction verification engine implementing **3D Secure (3DS)** for payment processing — fintech-grade backend work, built on real experience integrating payment gateways (Payway, Cybersource) in production ecommerce.
 
 ### 🌊 Reactive River Monitoring Platform *(in progress)*
-Fully reactive water-level monitoring system for Argentine rivers. **Java 25 · Spring Boot 4 · WebFlux · R2DBC · TimescaleDB · Reactor RabbitMQ**, 5 microservices (sensor registry, simulation, ingestion, alerting, query API) with a strict no-blocking-code rule end to end, plus a React/Leaflet frontend.
+Fully reactive water-level monitoring system for Argentine rivers. **Java 25 · Spring Boot · WebFlux · R2DBC · TimescaleDB · Reactor RabbitMQ**, 5 microservices (sensor registry, simulation, ingestion, alerting, query API) with a strict no-blocking-code rule end to end, plus a React/Leaflet frontend.
 > Actively developed using my own spec-driven process (see SDD-GL below). Contracts and progress are public as the project moves forward.
 
 ### 📐 SDD-GL (Gate/Loop)
@@ -72,17 +74,6 @@ Reusable Spring Security + JWT starter kit — the auth foundation I don't want 
 Inventory management and WooCommerce integration work (Spring Boot + Vaadin) built and running in production for a ~1,000-product catalog — stock sync, invoicing, and payment gateway integrations that today account for roughly 30% of the business's revenue.
 
 *(pinned repos below — READMEs include architecture notes and the reasoning behind key decisions, not just setup instructions)*
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlyZeta&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyZeta&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
